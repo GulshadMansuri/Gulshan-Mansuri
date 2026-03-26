@@ -1,0 +1,33 @@
+STAY SAFE ONLINE: A STUDENT’S PREVENTION CHECKLIST
+ 1. Being digitally literate means being your own first line of defense. Follow these 8 actionable tips to secure your digital life:
+
+
+FINANCIAL & UPI SAFETY (CRITICAL)
+ 1. The "PIN is for Sending" Rule: Never enter your UPI PIN to receive money. If someone sends you a QR code and asks for your PIN to "credit" a refund or payment, it is a scam.
+
+ 2. Verify the Payee Name: Before hitting 'Pay' on any UPI app (GPay, PhonePe, Paytm), double-check the actual name registered to the UPI ID. Scammers often use names like "Customer Support" or "Refund Dept" to hide their real identity.
+
+
+ACCOUNT & PASSWORD SECURITY
+ 1. Enable App-Level Biometrics: Use your phone’s fingerprint or face unlock for banking and messaging apps (WhatsApp/Telegram). This prevents data theft if your phone is snatched while unlocked.
+
+ 2. Use a Non-SMS 2FA: Switch from SMS-based OTPs to Authenticator Apps (like Google Authenticator) where possible. This protects you against "SIM Swapping" attacks.
+
+ 3. Audit Connected Devices: Regularly check the "Linked Devices" section in WhatsApp and your Google Account settings to ensure no unauthorized laptop or tablet has access to your chats or emails.
+
+
+BROWSING & SOCIAL CONDUCT
+ 1. Avoid Public Wi-Fi for Sensitive Tasks: Never log into your bank account or student portal using open campus or cafe Wi-Fi. If you must use it, always turn on a trusted VPN first.
+
+2. Identify "Urgency" as a Red Flag: Be skeptical of messages from "friends" or "professors" demanding urgent help, money, or clicking a link. Always verify their identity through a separate phone call.
+
+3. Check Link Legitimacy: Before clicking, hover over a link to see the actual URL. Look for subtle misspellings (e.g., amozon.in instead of amazon.in) which indicate a phishing attempt.
+
+HOW TO REPORT A CYBERCRIME
+ 1. If you or a friend have been cheated or harassed online, do not wait. Report it immediately through these official government channels:
+
+ 2. Helpline: Dial 1930 (National Cyber Crime Helpline) immediately for financial frauds to increase the chances of freezing the stolen funds.
+
+ 3. Online Portal: File a formal complaint at cybercrime.gov.in.
+
+ 4. Local Action: Visit the nearest Cyber Cell at your local police station.
