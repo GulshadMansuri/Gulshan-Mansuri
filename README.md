@@ -43,7 +43,7 @@ Researched real-world threats to provide a safety resource for the student commu
 ---
 
 ## Final Project Report
-The full written report covering all reflections, observations, and detailed task documentation is available here:
+#### The full written report covering all reflections, observations, and detailed task documentation is available here:
  **[View Project Report](./report/Project_Report.pdf)**
 ---
 *Developed as part of the VIT Bhopal University Digital Literacy Program (2026).* 
