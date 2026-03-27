@@ -2,7 +2,7 @@ Subject: Summer Internship Inquiry - Gulshan Nijammudin Shaikh Mansuri - B.Tech 
 
 Dear Internship Coordinator,
 
-My name is Gulshan Nijammudin Shaikh Mansuri, and I am a first-year Computer Science and Engineering student at [Your University/Institute Name], Registration No: 25BCE11141. I am writing to express my strong interest in a summer internship opportunity at NVIDIA.
+My name is Gulshan Nijammudin Shaikh Mansuri, and I am a first-year Computer Science and Engineering student at VIT University Bhopal, Registration No: 25BCE11141. I am writing to express my strong interest in a summer internship opportunity at NVIDIA.
 
 I have a deep passion for computer hardware, specifically CPU design and chipset architecture. Following NVIDIA's advancements in GPU-accelerated computing has been a significant part of my motivation to pursue a degree in CSE. I am currently building a strong foundation in Python and C++, and I am eager to apply my technical curiosity to a real-world environment where hardware and software converge.
 
